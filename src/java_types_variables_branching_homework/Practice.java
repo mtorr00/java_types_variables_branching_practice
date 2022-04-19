@@ -14,5 +14,9 @@ public class Practice {
 		
 //		int zero = 0;
 //		System.out.println(1 / zero);
+//		
+//		int nine;
+//		nine = "hello";
+
 	}
 }
